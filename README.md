@@ -1,5 +1,5 @@
 # Job Finder
-Job Portal project is made in PHP using Laravel framework.
+Job Finder project is made in PHP using Laravel framework.
 
 # Installation
 
